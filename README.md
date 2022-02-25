@@ -31,3 +31,7 @@ en el localhost:5000/tasks run `npm run server`
 
 ## para cargar la pagina servidor 
 Run `ng serve`
+
+## db.json es el archivo BASE DE DATOS DE LAS TAREAS A LA QUE CONSULTA LA APP 
+
+## Para servidor parado: `ng generate service serive/ui` -> `npm run server`

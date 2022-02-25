@@ -1,28 +1,22 @@
 {
-    "tasks":[
-        {
-            "id": 1,
-            "text": "Terminar app Angular y ver dos masterclass",
-            "day": "Febrero 25 a las 20:00",
-            "reminder": true
-        },
-        {
-            "id": 2,
-            "text": "Terminar modulo 4: Base de Datos",
-            "day": "Febrero 28 a las 12:00",
-            "reminder": true
-        },
-        {
-            "id": 3,
-            "text": "Terminar modulo 5: POO",
-            "day": "Marzo 15 a las 12:00",
-            "reminder": false
-        },
-        {
-            "id": 4,
-            "text": "Modulo 6",
-            "day": "Marzo 15 a las 21:00",
-            "reminder": false
-        }
-    ]
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Terminar app Angular y ver dos masterclass",
+      "day": "Febrero 25 a las 20:00",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Terminar modulo 4: Base de Datos",
+      "day": "Febrero 28 a las 12:00",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Terminar modulo 5: POO",
+      "day": "Marzo 15 a las 12:00",
+      "reminder": true
+    }
+  ]
 }
